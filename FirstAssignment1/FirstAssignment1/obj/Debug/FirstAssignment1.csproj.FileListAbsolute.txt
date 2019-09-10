@@ -1,0 +1,7 @@
+F:\BITM\Assignment 1\FirstAssignment1\FirstAssignment1\bin\Debug\FirstAssignment1.exe.config
+F:\BITM\Assignment 1\FirstAssignment1\FirstAssignment1\bin\Debug\FirstAssignment1.exe
+F:\BITM\Assignment 1\FirstAssignment1\FirstAssignment1\bin\Debug\FirstAssignment1.pdb
+F:\BITM\Assignment 1\FirstAssignment1\FirstAssignment1\obj\Debug\FirstAssignment1.csprojAssemblyReference.cache
+F:\BITM\Assignment 1\FirstAssignment1\FirstAssignment1\obj\Debug\FirstAssignment1.csproj.CoreCompileInputs.cache
+F:\BITM\Assignment 1\FirstAssignment1\FirstAssignment1\obj\Debug\FirstAssignment1.exe
+F:\BITM\Assignment 1\FirstAssignment1\FirstAssignment1\obj\Debug\FirstAssignment1.pdb
